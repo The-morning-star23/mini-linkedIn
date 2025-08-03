@@ -30,7 +30,7 @@ A brief one-sentence description of your project.
 ## Local Setup Instructions
 
 1.  Clone the repository:
-    `git clone <your-repo-link>`
+    `https://github.com/The-morning-star23/mini-linkedIn.git`
 2.  Navigate to the project directory:
     `cd mini-linkedin-platform`
 3.  Install dependencies:
