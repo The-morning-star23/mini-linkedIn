@@ -6,7 +6,7 @@ A brief one-sentence description of your project.
 
 ## Live Demo
 
-[Click here to view the live application](your-vercel-url)
+https://mini-linked-in-nu.vercel.app
 
 ---
 
