@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 
-import Navbar from './components/layout/Navbar'; // Import Navbar
+import Navbar from './components/layout/Navbar';
 import HomePage from './pages/HomePage';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
@@ -12,7 +12,7 @@ function App() {
   return (
     <AuthProvider>
       <Router>
-        <Navbar /> {/* Add Navbar here */}
+        <Navbar />
         <div className="bg-gray-50 min-h-screen">
           <Routes>
             <Route path="/" element={<HomePage />} />
